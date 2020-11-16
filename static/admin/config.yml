@@ -1,7 +1,6 @@
 backend:
   name: github
   repo: https://github.com/PavelKovalchuk/gatsby-personal-blog
-  branch: main
 
 media_folder: content/assets
 public_folder: ../assets
