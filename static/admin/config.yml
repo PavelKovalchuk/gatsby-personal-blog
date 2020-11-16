@@ -1,6 +1,6 @@
 backend:
-  name: PavelKovalchuk
-  repo: gatsby-personal-blog
+  - name: github
+  - repo: PavelKovalchuk/gatsby-personal-blog
 
 media_folder: content/assets
 public_folder: ../assets
